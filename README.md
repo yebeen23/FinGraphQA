@@ -1,1 +1,3 @@
 # FinGraphQA
+
+from FinGraphQA paper
